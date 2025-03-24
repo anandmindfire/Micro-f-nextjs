@@ -152,6 +152,9 @@ importers:
 
   packages/shared:
     dependencies:
+      next:
+        specifier: ^15.1.1
+        version: 15.2.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       react:
         specifier: ^18.2.0
         version: 18.3.1
@@ -159,6 +162,9 @@ importers:
         specifier: ^18.2.0
         version: 18.3.1(react@18.3.1)
     devDependencies:
+      '@types/node':
+        specifier: ^20.11.24
+        version: 20.17.24
       '@types/react':
         specifier: ^18.2.64
         version: 18.3.19
