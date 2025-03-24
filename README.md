@@ -149,7 +149,3 @@ A demonstration of micro-frontend architecture using Next.js and Turborepo. This
    - Run `pnpm clean` followed by `pnpm install`
    - Check for version mismatches in dependencies
    - Ensure all workspace dependencies are properly linked
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
